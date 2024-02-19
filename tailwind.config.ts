@@ -12,6 +12,7 @@ const config = {
     './typesOfResumes/**/*.{ts,tsx}',
     './NavigationBar/**/*.{ts,tsx}',
     './displayProfile/**/*.{ts,tsx}',
+    './task/**/*.{ts,tsx}',
     
 	],
   prefix: "",
